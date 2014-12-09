@@ -6,7 +6,7 @@
 <meta name="Description" content="Convert hex to Bin and Bin to Hex Value Online Tool">
 <style>
 body{
-	background:url(images/back.png);
+	background:url(http://s25.postimg.org/fd0ukanxb/back.jpg);
 	font-family:monospace;
 	}
 #wrapper{
@@ -99,10 +99,10 @@ input[type="submit"]:hover{
 	<footer>This Script Made by <a href="http://www.wrock.org/">wRock.Org</a> | <a href="http://www.insertcart.com/">WordPress Theme</a>
 	
 		<div class="social">
-			<a href="https://plus.google.com/+SandeepKumar?prsrc=5"><img src="./images/googleplus.png" alt="Google+ Plus" /></a> 
-			<a href="https://twitter.com/wrockorg"><img src="./images/twitter.png" alt="Follow on Twitter" /></a>
-			<a href="http://www.facebook.com/allnewtricks"><img src="./images/facebook.png" alt="Like On Facebook" /></a>
-			<a href="http://www.youtube.com/user/nparabh11aryan"><img src="./images/youtube.png" alt="Subscribe on YouTube" /></a>
+			<a href="https://plus.google.com/+SandeepKumar?prsrc=5"><img src="http://s25.postimg.org/vb93r217f/googleplus.png" alt="Google+ Plus" /></a> 
+			<a href="https://twitter.com/wrockorg"><img src="http://s25.postimg.org/f97141ifv/twitter.png" alt="Follow on Twitter" /></a>
+			<a href="http://www.facebook.com/allnewtricks"><img src="http://s25.postimg.org/k94hbzo2j/facebook.png" alt="Like On Facebook" /></a>
+			<a href="http://www.youtube.com/user/nparabh11aryan"><img src="http://s25.postimg.org/fbqwqvm3f/youtube.png" alt="Subscribe on YouTube" /></a>
 		</div>
 	</footer>
 	</center>
